@@ -1,0 +1,38 @@
+:root{
+    --Charcoal: var(#202426);
+    --Moss: var(#6C733D);
+    --leaf: var(#9DA65D);
+    --Street: var(#8C8C88);
+    --Sky: var(#F2F2F2);
+}
+
+html {
+    background-color:#202426;
+    font-family: monospace;
+}
+
+h2,h1 {
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: inline-block;
+
+}
+
+nav {
+    
+    display:flex;
+    justify-content: space-between;
+    background-color: #6C733D;
+    color: #F2F2F2;
+    border: solid black;
+}
+.prof-pic {
+    margin-top: 50px;
+    display: flex;
+    border: solid #8C8C88;
+    border-radius: 10px;
+}
+.portfolio{
+    display: flex;
+}
