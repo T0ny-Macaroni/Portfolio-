@@ -124,7 +124,7 @@ header{
 
 
 .app-3 {
-    background-image: url(./Images/under-construction-symbol-sign-free-vector.jpg);
+    background-image: url(./Images/screencapture-t0ny-macaroni-github-io-Steam-Specials-Catalogue-2023-07-19-11_58_01.png);
     background-position: center;
     background-color: #6C733D;
     border: solid black 5px;
@@ -190,7 +190,7 @@ main,
         flex-direction: column;
     }
 
-    h3 {
+    h3, h2, h1 {
         flex-wrap: wrap; 
     }
 }
